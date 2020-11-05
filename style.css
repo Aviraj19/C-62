@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: aquamarine;
+    font-size: 25px;
+}
+.Line{
+    width: 200px;
+    height: 6px;
+    background-color: darkturquoise;
+    margin: 8px auto;
+}
+#Mycarousel {
+    background-color: cadetblue;
+}
+#Mycarousel img {
+    height: 300px;
+    margin-top: 10px;
+}
